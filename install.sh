@@ -1,5 +1,4 @@
 #!/bin/sh
-mkdir ~/just4test
 ZSH=~/.oh-my-zsh
 
 if [ -d "$ZSH" ]; then
